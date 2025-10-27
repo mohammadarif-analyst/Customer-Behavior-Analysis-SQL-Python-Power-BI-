@@ -22,8 +22,8 @@ It’s a complete **end-to-end data analytics pipeline** — from data loading a
 ## 🧰 Tools & Technologies  
 | Category | Tools Used |
 |-----------|------------|
-| Data Loading & EDA | Python (Pandas, NumPy, Matplotlib, Seaborn) |
-| Database & SQL | MySQL / PostgreSQL / SQL Server |
+| Data Loading & EDA | Python |
+| Database & SQL | MySQL |
 | Dashboard | Microsoft Power BI |
 | Reporting | Microsoft Word / PDF |
 | Presentation | Gamma App |
